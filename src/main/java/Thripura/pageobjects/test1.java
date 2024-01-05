@@ -37,6 +37,6 @@ public class test1
 		submit.click();
 	}
 	
-	
+	//this is the new update done to test
     //driver.findElement(By.id("login")).click();
 }
